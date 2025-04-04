@@ -2,7 +2,7 @@
   "name": "practica2-react",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Julio0885.github.io/Busqueda-conreact",
+  "homepage": "https://Julio0885.github.io/busqueda-conreact",
   "type": "module",
   "scripts": {
     "dev": "vite",
